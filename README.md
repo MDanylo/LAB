@@ -29,3 +29,5 @@
 - Контролер накопичувача:	Standard NVM Express Controller
 - Контролер накопичувача:	Xvdd SCSI Miniport
 - Дисковий накопичувач:	SAMSUNG MZVLB512HBJQ-000H1  (476 Гб)
+
+![video](https://img.youtube.com/vi/6iP0XA76v1o/0.jpg)](https://www.youtube.com/watch?v=6iP0XA76v1o)
