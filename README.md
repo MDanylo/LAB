@@ -31,4 +31,4 @@
 - Дисковий накопичувач:	SAMSUNG MZVLB512HBJQ-000H1  (476 Гб)
 
 
-![video](https://img.youtube.com/vi/6iP0XA76v1o/0.jpg)](https://www.youtube.com/watch?v=6iP0XA76v1o)
+[![Video](https://img.youtube.com/vi/6iP0XA76v1o/default.jpg)](https://youtu.be/6iP0XA76v1o)
